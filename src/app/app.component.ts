@@ -7,7 +7,7 @@ import { HousingLocation } from './housing/model/housing-location';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'fairhouse';
+  title = 'Fairhouse';
 
   housingLocationList: HousingLocation[] = [
     {
